@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="campo_altura">Ex. 1.65 m</string>
+    <string name="campo_peso">Ex. 62.5 kg</string>
+    <string name="calcular_button">Calcular</string>
+</resources>
